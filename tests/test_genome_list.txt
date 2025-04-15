@@ -1,0 +1,2 @@
+tests/GCF_002012065.1_ASM201206v1_genomic.fna
+tests/GCF_006400955.1_ASM640095v1_genomic.fna
